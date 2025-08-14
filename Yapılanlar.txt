@@ -1,0 +1,15 @@
+Dal
+BaseEntity
+concretes
+Entityler
+Configuration
+- PersonelConfiguration
+-Personel
+-Ýzinkaydý
+-Görevler
+-Kadro
+-MesaiKaydý
+-PersonelDeðerlendirme
+-PersonelNitelik
+Utilities
+

@@ -38,7 +38,7 @@ namespace DAL.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Ignore ServiceResponse<Guid> for all entities
-            modelBuilder.Ignore<ServiceResponse<Guid>>();
+           
 
             //Personel Configuration
 

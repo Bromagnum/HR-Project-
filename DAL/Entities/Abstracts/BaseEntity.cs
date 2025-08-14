@@ -20,7 +20,7 @@ namespace DAL.Entities.Abstracts
         public DateTime? DeletedDate { get; set; }
         public string? DeletedComputerName { get; set; }
         public string? DeletedIpAddress { get; set; }
-        public ServiceResponse<Guid> Response { get; set; }
+        
 
         public void CreatedAudit()
         {

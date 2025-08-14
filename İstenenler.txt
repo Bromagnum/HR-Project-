@@ -1,0 +1,91 @@
+CV Toplama
+
+Baþvurularý web formu veya manuel giriþ ile topla.
+
+Standart alanlar: T.C. Kimlik No, Ad, Soyad, Adres, Telefon, E-posta, vb.
+
+Adayýn niteliklerini kaydet: eðitim, sertifikalar, tecrübeler, yabancý dil, bilgisayar bilgisi.
+
+CV’leri sektör ve iþ tanýmlarýna göre filtrele.
+--------------------------
+
+Departmanlar Arasý Personel Deðerlendirme
+
+Çalýþanlarý departmanlar arasýnda karþýlaþtýr.
+
+Deðerlendirme kriterleri: Diksiyon, Fiziki görünüm, Araç kullanma, Ýnsan iliþkileri, vb.
+
+Departmanlar arasý personel geçiþlerini destekle (Üretim, Finans, Ar-Ge, vb.).
+--------------------------
+
+Kimlik Doðrulama ve Mesai Takibi
+
+Kart, Optik Okuyucu veya Parmak Ýzi kullan.
+
+Giriþ-çýkýþ saatlerini takip et.
+
+Performans ve bordro sistemleri ile entegre et.
+-------------------------
+Raporlama
+
+Çalýþan hobileri, duygusal dalgalanmalar, IQ, EQ, problem çözme yetisi bilgilerini raporlara dahil et.
+
+Raporlarda sektör ve iþ tanýmý bilgilerini göster.
+
+Çeþitli ÝK raporlarý üret: mesai, bordro, kariyer planlarý, eksik kaynaklar, baþvuru özetleri.
+--------------------------
+
+Kariyer Planlama
+
+Her pozisyon için olasý kariyer yollarýný sakla.
+
+Gereken eðitim, nitelikler, minimum süre gibi terfi koþullarýný tanýmla.
+
+Benzer iþ rolleri ve aktarýlabilir becerileri iliþkilendir.
+--------------------------
+
+Personel Deðerlendirme
+
+Çalýþma saatleri, firmaya katkýlarý, vazgeçilmezlik seviyesi gibi kriterleri deðerlendir.
+
+Yýllýk izin planla.
+
+Kritik pozisyonlar için yedek çalýþanlar belirle.
+--------------------------
+
+Gerekli Formlar / Belgeler
+
+Personel Özlük Bilgileri Formu
+Kiþisel, yasal ve iþe ait tüm detaylar.
+
+Personel Nitelik Raporu
+Yetenekler, eðitim, kiþilik, kabiliyetler.
+
+Personel Aylýk Bordro Bildirim Formu
+Aylýk maaþ hesaplamasý.
+
+Personel Görev Yeri Daðýlým Listesi
+Hangi çalýþanýn hangi lokasyon/departmanda çalýþtýðý.
+
+Þubelerin Personel Eksik Listesi
+Gereken ve mevcut personel karþýlaþtýrmasý.
+
+Personel Çalýþma Saati Raporu
+Þubelerden gelen mesai kayýtlarý.
+
+Ýþ Baþvurusu için CV Bilgileri Raporu
+Baþvuranlarýn temel bilgilerini içeren özet rapor.
+
+Ýþ Baþvurusu için CV Bilgileri
+Tam CV veritabaný.
+
+Þirket TMK Listesi
+
+Teþkilat: Organizasyon birimleri (Merkez, þubeler, departmanlar).
+
+Malzeme: Her birim için gerekli ekipman listesi.
+
+Kadro: Her birim için personel kotasý.
+
+TMK’ya Baðlý Personel Kariyer Planý Listesi
+Kariyer yolu yapýsý.
