@@ -13,3 +13,24 @@ Configuration
 -PersonelNitelik
 Utilities
 
+BLL
+PersonelDTO PersonelService
+Mapping
+- PersonelMapper
+utilities
+GorevyeriDTO GorevYeriService
+Mapping
+- GorevYeriMapper
+
+HRContext SaveChangesAsync Auditleri kullanmak için Override edildi
+
+MVC Controllers
+PersonelController
+GorevYeriController
+Viewsleri oluþturuldu
+areas
+- Personel
+GorevyerVm
+- PersonelVm
+AdminLTE yüklendi
+Partiallar oluþturuldu

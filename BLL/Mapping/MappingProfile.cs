@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BLL.DTOs;
 using DAL.Entities.Concretes;
+using DAL.Entities.Concretes.Organizasyon;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +16,9 @@ namespace BLL.Mapping
         {
             
              CreateMap<PersonelDTO, Personel>().ReverseMap();
-             
+            CreateMap<GorevYeri, GorevYeriDTO>()
+                .ReverseMap();
+
         }
     }
 }
