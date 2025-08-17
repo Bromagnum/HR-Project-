@@ -16,7 +16,6 @@ builder.Services.AddControllersWithViews();
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-//DbContext Configuration
 builder.Services.AddDbContext<HRContext>(options =>
     options.UseSqlServer(connectionString));
 
