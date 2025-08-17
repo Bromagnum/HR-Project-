@@ -6,6 +6,7 @@ using DAL.Context;
 using DAL.Repositories.Abstracts;
 using DAL.Repositories.Concretes;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using MVC.UiMappingProfile;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,8 +28,8 @@ builder.Services.AddScoped<IPersonelService, PersonelService>();
 builder.Services.AddScoped<IGorevYeriService, GorevYeriService>();
 
 //Mapping service configuration
-builder.Services.AddAutoMapper(typeof(MappingProfile));
-builder.Services.AddAutoMapper(typeof(UiMappingProfile));
+builder.Services.AddAutoMapper(cfg => cfg.AddProfile<MappingProfile>());
+builder.Services.AddAutoMapper(cfg => cfg.AddProfile<UiMappingProfile>());  
 
 var app = builder.Build();
 
